@@ -1,4 +1,4 @@
-# Marine-Drive-Scenario-Glut-Project-
+# Marine-Drive-Scenario-Glut-Project-computer graphics course
 
 
 Group members:
